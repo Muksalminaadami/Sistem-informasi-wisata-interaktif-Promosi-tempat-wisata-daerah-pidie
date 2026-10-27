@@ -1,1 +1,0 @@
-# Sistem-informasi-wisata-interaktif-Promosi-tempat-wisata-daerah-pidie
