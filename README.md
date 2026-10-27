@@ -1,4 +1,4 @@
-# 🌴 Hidden Paradise — Wisata Pidie
+# 🌴 Sistem informasi wisata interaktif Promosi tempat wisata daerah pidie
 
 **Hidden Paradise** adalah platform eksplorasi pariwisata sinematik yang dirancang untuk mempromosikan keindahan alam dan destinasi tersembunyi di Kabupaten Pidie, Aceh. 
 
