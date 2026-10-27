@@ -48,7 +48,7 @@ Aplikasi ini menggabungkan antarmuka visual modern berorientasi pengalaman pengg
 ### Langkah Cepat
 1. **Clone Repositori**:
    ```bash
-   git clone https://github.com/USERNAME/hidden-paradise.git
+   git clone https://github.com/Muksalminaadami/Sistem-informasi-wisata-interaktif-Promosi-tempat-wisata-daerah-pidie.git
    cd hidden-paradise
    ```
 
