@@ -1,4 +1,4 @@
-# 🌴 Sistem informasi wisata interaktifPromosi tempat wisata daerah pidie
+# 🌴 Sistem informasi wisata interaktif : Promosi tempat wisata daerah pidie
 
 **
 <p align="center">
