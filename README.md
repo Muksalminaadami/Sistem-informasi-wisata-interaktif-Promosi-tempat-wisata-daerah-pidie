@@ -1,6 +1,13 @@
 # 🌴 Sistem informasi wisata interaktif Promosi tempat wisata daerah pidie
 
-**Hidden Paradise** adalah platform eksplorasi pariwisata sinematik yang dirancang untuk mempromosikan keindahan alam dan destinasi tersembunyi di Kabupaten Pidie, Aceh. 
+**
+<p align="center">
+  <a href="https://marketplaceulf.infinityfree.me/](https://sistem-informasi-wisata-interaktif.ct.ws/">
+    <img src="https://img.shields.io/badge/Kunjungi-Website-2563EB?style=for-the-badge" alt="Buka website Pasar Lokal">
+  </a>
+</p>
+
+Hidden Paradise** adalah platform eksplorasi pariwisata sinematik yang dirancang untuk mempromosikan keindahan alam dan destinasi tersembunyi di Kabupaten Pidie, Aceh. 
 
 Aplikasi ini menggabungkan antarmuka visual modern berorientasi pengalaman pengguna (*user experience*) dengan **Dashboard Administrator** interaktif berbasis **Laravel** untuk pengelolaan data destinasi secara *real-time*.
 
