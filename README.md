@@ -2,8 +2,8 @@
 
 **
 <p align="center">
-  <a href="[https://marketplaceulf.infinityfree.me/](https://sistem-informasi-wisata-interaktif.ct.ws/?i=1)">
-    <img src="https://img.shields.io/badge/Kunjungi-Website-2563EB?style=for-the-badge" alt="Buka website Pasar Lokal">
+  <a href="https://sistem-informasi-wisata-interaktif.ct.ws/?i=1">
+    <img src="https://img.shields.io/badge/Kunjungi-Website-2563EB?style=for-the-badge" alt="Buka website">
   </a>
 </p>
 
