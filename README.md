@@ -2,10 +2,11 @@
 
 **
 <p align="center">
-  <a href="https://marketplaceulf.infinityfree.me/](https://sistem-informasi-wisata-interaktif.ct.ws/">
+  <a href="[https://marketplaceulf.infinityfree.me/](https://sistem-informasi-wisata-interaktif.ct.ws/?i=1)">
     <img src="https://img.shields.io/badge/Kunjungi-Website-2563EB?style=for-the-badge" alt="Buka website Pasar Lokal">
   </a>
 </p>
+
 
 Hidden Paradise** adalah platform eksplorasi pariwisata sinematik yang dirancang untuk mempromosikan keindahan alam dan destinasi tersembunyi di Kabupaten Pidie, Aceh. 
 
